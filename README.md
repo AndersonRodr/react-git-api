@@ -1,6 +1,6 @@
-# react-git-api
+# This project is only for find and to view repositories of github on reactjs
 
-Installations
+# Installations
 
 Project Creation:
   - yarn create react-app NAME
