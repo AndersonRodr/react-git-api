@@ -1,0 +1,17 @@
+1. Criando projetos:
+	- yarn create react-app NOME
+
+2. Rotas:
+	- yarn add react-router-dom
+
+3. Estilo:
+	- yarn add styled-components
+
+4. Biblioteca de ícones:
+	- yarn add react-icons
+
+5. Requisição de API:
+	- yarn add axios
+
+6. PropTypes:
+ 	- yarn add prop-types
